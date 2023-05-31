@@ -13,6 +13,7 @@
  <div> 
   <a href="https://instagram.com/luizpaulo.junior001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
+  <h1>Tecnologias que eu uso</h1>
 <div style="display: incline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css"   src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
