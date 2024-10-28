@@ -1,4 +1,9 @@
-## Oi eu sou Luiz Paulo Medeiros, estudo programação e tecnologia!
+# 👋 Olá, eu sou [Luiz Paulo Medeiros da Cunha Júnior]!
+
+<!-- Uma breve introdução sobre você -->
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente trabalho como **Especialista de Suporte**. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades em desenvolvimento de software, especialmente em áreas como **desenvolvimento web**, **back-end** e **design de interfaces**.
+
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,12 +26,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt="pyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
-# 👋 Olá, eu sou [Seu Nome]!
-
-<!-- Uma breve introdução sobre você -->
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente trabalho como **Especialista de Suporte**. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades em desenvolvimento de software, especialmente em áreas como **desenvolvimento web**, **back-end** e **design de interfaces**.
-
----
 
 ## 🔧 Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias que uso no meu dia a dia:
