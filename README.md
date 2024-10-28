@@ -14,10 +14,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente trabalh
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br>
- <div> 
-  <a href="https://instagram.com/luizpaulo.junior001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </div>
-
 ## 🔧 Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias que uso no meu dia a dia:
 
@@ -36,7 +32,7 @@ Atualmente, estou focado em projetos como:
 
 - **Sistema de Gerenciamento de Pedidos** - Um sistema completo de pedidos para um mercado, com integração para receber solicitações de banners de produtos via WhatsApp.
 - **Aplicativo da Bíblia** - Um aplicativo com **React** que combina notas, lista de tarefas e um calendário com o texto completo da Bíblia.
-- **Simulador de Corrida Drag Racing** - Um simulador em desenvolvimento que calcula física e velocidade em corridas, explorando cálculos físicos.
+
 
 Você pode conferir todos os meus projetos no meu [repositório de projetos](https://github.com/seu-usuario?tab=repositories).
 
@@ -53,7 +49,7 @@ Você pode conferir todos os meus projetos no meu [repositório de projetos](htt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizPauloJRM)
 
 ---
 
