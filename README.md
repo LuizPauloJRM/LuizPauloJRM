@@ -34,14 +34,14 @@ Atualmente, estou focado em projetos como:
 - **Aplicativo da Bíblia** - Um aplicativo com **React** que combina notas, lista de tarefas e um calendário com o texto completo da Bíblia.
 
 
-Você pode conferir todos os meus projetos no meu [repositório de projetos](https://github.com/seu-usuario?tab=repositories).
+Você pode conferir todos os meus projetos no meu [repositório de projetos](https://github.com/LuizPauloJRM?tab=repositories).
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=/LuizPauloJRM&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=/LuizPauloJRM&layout=compact&theme=radical)
 
 ---
 
