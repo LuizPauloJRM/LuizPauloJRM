@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Luiz Paulo Medeiros da Cunha Júnior
 
 <!-- Uma breve introdução sobre você -->
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente trabalho como **Especialista de Suporte**. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades em desenvolvimento de software, especialmente em áreas como **desenvolvimento web**, **back-end** e **design de interfaces**.
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software full-stack. Trabalho com uma ampla gama de tecnologias, como Python, Java, React, JavaScript, HTML, CSS e Angular. Busco constantemente aprimorar minhas habilidades, focando em desenvolver soluções eficazes para o back-end e front-end e explorando novas ferramentas para entregar produtos de alta qualidade.
 
 ---
 
