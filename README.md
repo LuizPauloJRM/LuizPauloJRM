@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Luiz Paulo Medeiros da Cunha Júnior
 
-<!-- Uma breve introdução sobre você -->
+<!--Uma breve introdução sobre você -->
 Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software full-stack. Trabalho com uma ampla gama de tecnologias, como Python, Java, React, JavaScript, HTML, CSS e Angular. Busco constantemente aprimorar minhas habilidades, focando em desenvolver soluções eficazes para o back-end e front-end e explorando novas ferramentas para entregar produtos de alta qualidade.
 Trabalho com desenvolvimento de softwares desde 2022 usando várias linguagens, bibliotecas e frameworks diferentes.
 Das linguagens de programação que trabalhei, me especializei em JavaScript, Python e PHP. Tenho cursos ministrados nessas linguagens somando mais de 380 horas de conteúdo até o momento. 
----
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
