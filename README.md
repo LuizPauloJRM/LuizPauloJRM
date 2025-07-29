@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Luiz Paulo Medeiros da Cunha Júnior
+## Olá, eu sou Luiz Paulo Medeiros da Cunha Júnior
 
 <!--Uma breve introdução sobre você -->
 Sou desenvolvedor de software Full-Stack autônomo, com experiência prática no desenvolvimento de aplicações web modernas, atuando desde 2022 com soluções completas de back-end e front-end.
