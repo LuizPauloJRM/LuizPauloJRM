@@ -1,10 +1,15 @@
 # 👋 Olá, eu sou Luiz Paulo Medeiros da Cunha Júnior
 
 <!--Uma breve introdução sobre você -->
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software full-stack. Trabalho com uma ampla gama de tecnologias, como Python, Java, React, JavaScript, HTML, CSS e Angular. Busco constantemente aprimorar minhas habilidades, focando em desenvolver soluções eficazes para o back-end e front-end e explorando novas ferramentas para entregar produtos de alta qualidade.
-Trabalho com desenvolvimento de softwares desde 2022 usando várias linguagens, bibliotecas e frameworks diferentes.
-Das linguagens de programação que trabalhei, me especializei em JavaScript, Python e PHP. Tenho cursos ministrados nessas linguagens somando mais de 380 horas de conteúdo até o momento. 
+Sou desenvolvedor de software Full-Stack autônomo, com experiência prática no desenvolvimento de aplicações web modernas, atuando desde 2022 com soluções completas de back-end e front-end.
 
+Trabalho com uma variedade de tecnologias, como JavaScript (React, Node.js, Angular), Python, PHP, Java, HTML/CSS, além de ferramentas como Firebase, Docker, SQLite e consumo de APIs REST. Ao longo da minha trajetória, desenvolvi e participei de projetos que envolvem desde sistemas de autenticação e dashboards até aplicações com recursos de Inteligência Artificial para educação.
+
+Tenho mais de 380 horas de capacitação técnica em linguagens e frameworks, e mantenho uma rotina contínua de aprimoramento profissional. Desenvolvo soluções com foco em usabilidade, acessibilidade e performance, buscando entregar produtos eficientes, funcionais e visualmente responsivos.
+
+Além disso, possuo forte interesse por inovação e já participei de iniciativas apresentadas a órgãos públicos, demonstrando o potencial de tecnologias acessíveis e inteligentes na transformação digital da educação.
+
+Atualmente, estou aberto a novas oportunidades de colaboração ou contratação, especialmente em projetos que desafiem minha criatividade e ampliem meu impacto como desenvolvedor Full-Stack.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
