@@ -34,10 +34,31 @@ Aqui estão algumas das tecnologias que uso no meu dia a dia:
 ---
 
 ## 💼 Experiência e Projetos
-Atualmente, estou focado em projetos como:
+- Atualmente, atuo como Desenvolvedor Full-Stack Júnior, com foco em desenvolvimento web e soluções baseadas em IA. Tenho experiência prática com tecnologias como - -  - JavaScript, React, Node.js, Python (Flask), Docker e SQLite, tanto no frontend quanto no backend.
+📌 Projetos em Destaque:
+🧠 Sistema Educacional com Inteligência Artificial
+Plataforma interativa que permite ao usuário escolher uma matéria e fazer perguntas sobre o conteúdo. Utiliza API da OpenAI para fornecer respostas didáticas e personalizadas.
 
-- **Sistema de Gerenciamento de Pedidos** - Um sistema completo de pedidos para um mercado, com integração para receber solicitações de banners de produtos via WhatsApp.
-- **Aplicativo da Bíblia** - Um aplicativo com **React** que combina notas, lista de tarefas e um calendário com o texto completo da Bíblia.
+Tecnologias: Python (Flask), React, HTML, CSS, JavaScript, SQLite, OpenAI API.
+
+Status: Apresentado e aprovado em reunião com o senador Izalci (Uniprojeção).
+
+[Link do projeto (privado ou acadêmico se aplicável)]
+
+## 🍔 DevBurger (Sistema de Pedidos)
+Aplicação fullstack que simula um sistema de pedidos para hamburgueria com painel de cliente e administrativo. Possui autenticação, integração com banco de dados e Docker.
+
+Tecnologias: React, Node.js, JavaScript, Docker, PostgreSQL, Styled Components.
+
+🔗 Frontend | Backend
+
+Tecnologias: React, JavaScript, CSS, Firebase.
+
+## 🧾 Sistema de Check-in com QR Code
+Sistema de controle de entrada para eventos, com geração e leitura de QR Code, integração com Excel e relatórios.
+
+Tecnologias: Python (Flask), HTML, Tailwind CSS, JavaScript, SQLite, Pandas, Openpyxl.
+
 
 
 Você pode conferir todos os meus projetos no meu [repositório de projetos](https://github.com/LuizPauloJRM?tab=repositories).
