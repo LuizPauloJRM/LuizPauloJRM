@@ -79,13 +79,16 @@ Você pode conferir todos os meus projetos no meu [repositório de projetos](htt
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizPauloJRM)
 
 ---
+## 🔍 O que estou buscando no momento
+Sou desenvolvedor Full‑Stack autônomo, com atuação desde 2022 no desenvolvimento completo de soluções web e back-end. Atualmente, estou em busca de:
 
-### 🎯 O que estou buscando agora
-Estou interessado em:
-- Colaborar em projetos de desenvolvimento web e back-end.
-- Expandir meu conhecimento em **Java**, **React**, e **Python**.
-- Oportunidades de estágio e aprendizado prático em desenvolvimento.
+🚀 Colaborações em projetos de desenvolvimento web e APIs back-end, especialmente em aplicações inovadoras com foco em eficiência e escalabilidade.
 
+📈 Aprofundamento técnico em Java, React e Python, contribuindo diretamente em projetos reais para aprimorar minha experiência.
+
+💼 Oportunidades de estágio, freelance ou contrato técnico que me permitam trabalhar com equipes dinâmicas e tecnológicas.
+
+🌐 Iniciativas que envolvam Inteligência Artificial, automação e acessibilidade digital, para gerar impacto e aprendizado contínuo.
 📫 **Entre em contato para discutirmos oportunidades e colaborações!**
 
 ---
