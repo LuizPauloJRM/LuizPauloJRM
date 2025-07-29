@@ -10,10 +10,7 @@ Tenho mais de 380 horas de capacitação técnica em linguagens e frameworks, e 
 Além disso, possuo forte interesse por inovação e já participei de iniciativas apresentadas a órgãos públicos, demonstrando o potencial de tecnologias acessíveis e inteligentes na transformação digital da educação.
 
 Atualmente, estou aberto a novas oportunidades de colaboração ou contratação, especialmente em projetos que desafiem minha criatividade e ampliem meu impacto como desenvolvedor Full-Stack.
-
-<br>
 ## 🔧 Tecnologias e Ferramentas
-Aqui estão algumas das tecnologias que uso no meu dia a dia:
 
 ![HTML5](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
