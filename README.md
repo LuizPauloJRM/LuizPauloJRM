@@ -56,8 +56,10 @@ Você pode conferir todos os meus projetos no meu [repositório de projetos](htt
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=/LuizPauloJRM&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=/LuizPauloJRM&layout=compact&theme=radical)
+GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizPauloJRM&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPauloJRM&layout=compact&theme=radical)
 
 ---
 
