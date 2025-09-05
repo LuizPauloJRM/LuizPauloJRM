@@ -1,15 +1,11 @@
 ## Olá, eu sou Luiz Paulo Medeiros da Cunha Júnior
 
 <!--Uma breve introdução sobre você -->
-Sou desenvolvedor de software Full-Stack autônomo, com experiência prática no desenvolvimento de aplicações web modernas, atuando desde 2022 com soluções completas de back-end e front-end.
+Sou Desenvolvedor Full-Stack em formação, atualmente estagiando com Java e sistemas ERP, com experiência prática no desenvolvimento de aplicações web modernas desde 2022, atuando em soluções completas de back-end e front-end.
 
-Trabalho com uma variedade de tecnologias, como JavaScript (React, Node.js, Angular), Python, PHP, Java, HTML/CSS, além de ferramentas como Firebase, Docker, SQLite e consumo de APIs REST. Ao longo da minha trajetória, desenvolvi e participei de projetos que envolvem desde sistemas de autenticação e dashboards até aplicações com recursos de Inteligência Artificial para educação.
+Trabalho com tecnologias como Java, Spring Boot, React, Node.js, Python (Flask), HTML/CSS, SQLite, Docker, além de integrações com APIs REST/SOAP. Desenvolvo soluções com foco em usabilidade, acessibilidade, performance e inovação, incluindo projetos com Inteligência Artificial aplicados à educação.
 
-Tenho mais de 380 horas de capacitação técnica em linguagens e frameworks, e mantenho uma rotina contínua de aprimoramento profissional. Desenvolvo soluções com foco em usabilidade, acessibilidade e performance, buscando entregar produtos eficientes, funcionais e visualmente responsivos.
-
-Além disso, possuo forte interesse por inovação e já participei de iniciativas apresentadas a órgãos públicos, demonstrando o potencial de tecnologias acessíveis e inteligentes na transformação digital da educação.
-
-Atualmente, estou aberto a novas oportunidades de colaboração ou contratação, especialmente em projetos que desafiem minha criatividade e ampliem meu impacto como desenvolvedor Full-Stack.
+Tenho experiência em sistemas corporativos e ERP, aprendizado contínuo em frameworks, banco de dados relacionais e boas práticas de arquitetura de software. Participei de iniciativas apresentadas a órgãos públicos, mostrando o potencial de tecnologias inteligentes na transformação digital.
 ## 🔧 Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)
