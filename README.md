@@ -18,15 +18,8 @@ Tenho experiência em sistemas corporativos e ERP, aprendizado contínuo em fram
 
 ---
 
-## 💼 Experiência e Projetos
-- Atualmente, atuo como Desenvolvedor Full-Stack Júnior, com foco em desenvolvimento web e soluções baseadas em IA. Tenho experiência prática com tecnologias como - -  - JavaScript, React, Node.js, Python (Flask), Docker e SQLite, tanto no frontend quanto no backend.
-📌 Projetos em Destaque:
-🧠 Sistema Educacional com Inteligência Artificial
-Plataforma interativa que permite ao usuário escolher uma matéria e fazer perguntas sobre o conteúdo. Utiliza API da OpenAI para fornecer respostas didáticas e personalizadas.
-
-Tecnologias: Python (Flask), React, HTML, CSS, JavaScript, SQLite, OpenAI API.
-
-Status: Apresentado e aprovado em reunião com o senador Izalci (Uniprojeção).
+## 💼 Experiência e ProjetosEstagiário em Desenvolvimento Java e ERP
+Atualmente, atuo como estagiário em desenvolvimento de sistemas ERP completos, focando em soluções corporativas com Java, Spring Boot, JPA/Hibernate, APIs REST/SOAP, bancos de dados relacionais e integração de sistemas. Aprendo a construir aplicações robustas, escaláveis e eficientes, com foco em usabilidade, performance e acessibilidade digital.
 
 [Link do projeto (privado ou acadêmico se aplicável)]
 
