@@ -1,87 +1,84 @@
-## Olá, eu sou Luiz Paulo Medeiros da Cunha Júnior
+# 👋 Olá, eu sou Luiz Paulo Medeiros da Cunha Júnior  
 
-<!--Uma breve introdução sobre você -->
-Sou Desenvolvedor Full-Stack em formação, atualmente estagiando com Java e sistemas ERP, com experiência prática no desenvolvimento de aplicações web modernas desde 2022, atuando em soluções completas de back-end e front-end.
+Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Desenvolvimento Java e Sistemas ERP**. Tenho experiência prática no desenvolvimento de aplicações web desde 2022, trabalhando no **back-end e front-end**, e venho me especializando no ecossistema **Java corporativo**.
 
-Trabalho com tecnologias como Java, Spring Boot, React, Node.js, Python (Flask), HTML/CSS, SQLite, Docker, além de integrações com APIs REST/SOAP. Desenvolvo soluções com foco em usabilidade, acessibilidade, performance e inovação, incluindo projetos com Inteligência Artificial aplicados à educação.
+---
 
-Tenho experiência em sistemas corporativos e ERP, aprendizado contínuo em frameworks, banco de dados relacionais e boas práticas de arquitetura de software. Participei de iniciativas apresentadas a órgãos públicos, mostrando o potencial de tecnologias inteligentes na transformação digital.
-## 🔧 Tecnologias e Ferramentas
-## Tecnologias
+## 🚀 Tecnologias e Ferramentas  
 
-### Back-end / ERP
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/JPA/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-0D5C91?style=for-the-badge&logo=webservices&logoColor=white)
-
-### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Outras tecnologias e ferramentas
+### 🖥️ Back-End / ERP  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JSF](https://img.shields.io/badge/JSF-000000?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎨 Front-End  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Banco de Dados  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠️ Ferramentas  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-## 💼 Experiência e ProjetosEstagiário em Desenvolvimento Java e ERP
-Atualmente, atuo como estagiário em desenvolvimento de sistemas ERP completos, focando em soluções corporativas com Java, Spring Boot, JPA/Hibernate, APIs REST/SOAP, bancos de dados relacionais e integração de sistemas. Aprendo a construir aplicações robustas, escaláveis e eficientes, com foco em usabilidade, performance e acessibilidade digital.
-
-[Link do projeto (privado ou acadêmico se aplicável)]
-
-## 🍔 DevBurger (Sistema de Pedidos)
-Aplicação fullstack que simula um sistema de pedidos para hamburgueria com painel de cliente e administrativo. Possui autenticação, integração com banco de dados e Docker.
-
-Tecnologias: React, Node.js, JavaScript, Docker, PostgreSQL, Styled Components.
-
-🔗 Frontend | Backend
-
-Tecnologias: React, JavaScript, CSS, Firebase.
-
-## 🧾 Sistema de Check-in com QR Code
-Sistema de controle de entrada para eventos, com geração e leitura de QR Code, integração com Excel e relatórios.
-
-Tecnologias: Python (Flask), HTML, Tailwind CSS, JavaScript, SQLite, Pandas, Openpyxl.
-
-
-
-Você pode conferir todos os meus projetos no meu [repositório de projetos](https://github.com/LuizPauloJRM?tab=repositories).
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 💼 Experiência e Projetos  
 
-GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizPauloJRM&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPauloJRM&layout=compact&theme=radical)
-
----
-
-## 🌐 Vamos nos conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-paulo-medeiros-devfullstack/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizPauloJRM)
-
----
-## 🔍 O que estou buscando no momento
-Sou desenvolvedor Full‑Stack autônomo, com atuação desde 2022 no desenvolvimento completo de soluções web e back-end. Atualmente, estou em busca de:
-
-🚀 Colaborações em projetos de desenvolvimento web e APIs back-end, especialmente em aplicações inovadoras com foco em eficiência e escalabilidade.
-
-📈 Aprofundamento técnico em Java, React e Python, contribuindo diretamente em projetos reais para aprimorar minha experiência.
-
-💼 Oportunidades de estágio, freelance ou contrato técnico que me permitam trabalhar com equipes dinâmicas e tecnológicas.
-
-🌐 Iniciativas que envolvam Inteligência Artificial, automação e acessibilidade digital, para gerar impacto e aprendizado contínuo.
-📫 **Entre em contato para discutirmos oportunidades e colaborações!**
+**🔧 Estagiário em Desenvolvimento Java e ERP**  
+Atuação em sistemas corporativos com:  
+- ✅ **JSF + PrimeFaces** para construção de telas dinâmicas  
+- ✅ **JPA/Hibernate** para persistência de dados  
+- ✅ **Autenticação de usuários** e controle de permissões  
+- ✅ **Integração com APIs REST (ex.: consulta CEP)**  
 
 ---
 
-> Obrigado pela visita! Volte sempre e veja meus novos projetos! 😄
+### 📌 Projetos em Destaque  
+
+** DevBurger (Sistema de Pedidos)**  
+Sistema fullstack para hamburgueria com painel do cliente e administrativo.  
+**Tecnologias:** React, Node.js, PostgreSQL, Docker  
+
+**🧾 Sistema de Check-in com QR Code**  
+Controle de entrada para eventos, com geração e leitura de QR Codes e relatórios.  
+**Tecnologias:** Python (Flask), HTML, JavaScript, SQLite  
+
+📌 Confira mais projetos no meu [Portfólio de Projetos](https://github.com/LuizPauloJRM?tab=repositories)
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizPauloJRM&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPauloJRM&layout=compact&theme=dracula)
+
+---
+
+## 🌐 Vamos nos Conectar  
+
+🔗 [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/luiz-paulo-medeiros-devfullstack?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+📧 Email: **luizpaulomedeiros77@hotmail.com**  
+
+---
+
+## O que estou buscando no momento  
+
+- Oportunidades de **júnior** para aplicar meus conhecimentos  
+-  Projetos com **Spring Boot, JSF, JPA/Hibernate**  
+-  Colaborações open-source e projetos de impacto  
+
+
+Obrigado pela visita! 😄 Volte sempre e veja meus novos projetos!
