@@ -36,14 +36,14 @@ Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Des
 ---
 
 ## Experiência e Projetos  
-Descrição do Projeto
+##ERP JSF
 
 O ERP JSF é um sistema de gestão empresarial desenvolvido em Java, utilizando o JSF (JavaServer Faces) com PrimeFaces e Hibernate (JPA).
 O objetivo é fornecer um ambiente didático e funcional para aprendizado e demonstração de como construir aplicações corporativas web com arquitetura MVC, persistência em banco de dados e interface rica com PrimeFaces.
 
 Atualmente, o sistema possui módulos para cadastro de empresas e cadastro de funcionários (RH), totalmente integrados.
 
-⚙️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 Camada	Tecnologias
 Frontend (View)	JSF 2.x, PrimeFaces, XHTML, Facelets, CSS
 Backend (Controle e Serviço)	Java 8+, Managed Beans (JSF Scoped Beans), Hibernate / JPA
