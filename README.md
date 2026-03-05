@@ -1,14 +1,15 @@
 ## Olá, eu sou Luiz Paulo Medeiros da Cunha Júnior  
 Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Desenvolvimento Java e Sistemas ERP** **Empresa Benu ERP**. Tenho experiência prática no desenvolvimento de aplicações web desde 2022, trabalhando no **back-end e front-end**, e venho me especializando no ecossistema **Java corporativo**.
+
 ---
 ## Tecnologias e Ferramentas  
 <h4 align="left">Back-End </h4>
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="49" alt="java logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=spring" height="49" alt="spring logo"  />
   <br>
+  
   
 <h4 align="left">Front-end </h4>
 <div align="left">
