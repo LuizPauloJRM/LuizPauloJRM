@@ -1,76 +1,31 @@
 ## Olá, eu sou Luiz Paulo Medeiros da Cunha Júnior  
-
 Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Desenvolvimento Java e Sistemas ERP** **Empresa Benu ERP**. Tenho experiência prática no desenvolvimento de aplicações web desde 2022, trabalhando no **back-end e front-end**, e venho me especializando no ecossistema **Java corporativo**.
-
 ---
-
 ## Tecnologias e Ferramentas  
-
-<h4 align="left">Techs for Back-End 🛠</h4>
+<h4 align="left">Back-End </h4>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="49" alt="java logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=spring" height="49" alt="spring logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="49" alt="postgresql logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=git" height="49" alt="git logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=docker" height="49" alt="docker logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="49" alt="postman logo"  />
   <br>
-<h4 align="left">Techs for Front-end 🛠</h4>
-
+  
+<h4 align="left">Front-end </h4>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="49" alt="angularjs logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=ts" height="49" alt="typescript logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=css" height="49" alt="css3 logo"  />  
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="49" alt="javascript">
 </div>
 
-## Frameworks
+<h4 align="left">Frameworks </h4>
 ![JSF](https://img.shields.io/badge/JSF-000000?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-##  Front-End  
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
 
 ---
-### Banco de Dados  
+<h4 align="left">Banco de dados </h4>  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -78,13 +33,15 @@ Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Des
   <img width="12" />
 </div>
 
-##  Ferramentas  
+<h4 align="left">Ferramentas </h4> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="49" alt="Eclipse"/>
 </div>
 )
 
