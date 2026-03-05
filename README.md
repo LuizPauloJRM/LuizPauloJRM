@@ -1,6 +1,6 @@
 ## Olá, eu sou Luiz Paulo Medeiros da Cunha Júnior  
 
-Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Desenvolvimento Java e Sistemas ERP**. Tenho experiência prática no desenvolvimento de aplicações web desde 2022, trabalhando no **back-end e front-end**, e venho me especializando no ecossistema **Java corporativo**.
+Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Desenvolvimento Java e Sistemas ERP** **Empresa Benu ERP**. Tenho experiência prática no desenvolvimento de aplicações web desde 2022, trabalhando no **back-end e front-end**, e venho me especializando no ecossistema **Java corporativo**.
 
 ---
 
