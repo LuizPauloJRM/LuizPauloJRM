@@ -13,10 +13,10 @@ Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Des
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
 </div>
 
+## Frameworks
 ![JSF](https://img.shields.io/badge/JSF-000000?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ###  Front-End  
 <img 
