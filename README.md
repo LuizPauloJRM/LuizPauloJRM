@@ -6,7 +6,7 @@ Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Des
 
 ## Tecnologias e Ferramentas  
 
-###  Back-End / ERP  
+## Back-End / ERP  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -16,9 +16,7 @@ Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Des
 ## Frameworks
 ![JSF](https://img.shields.io/badge/JSF-000000?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-
-###  Front-End  
+##  Front-End  
 <img 
     align="left" 
     alt="TypeScript"
@@ -62,13 +60,15 @@ Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Des
   <img width="12" />
 </div>
 
-###  Ferramentas  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+##  Ferramentas  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+)
 
 ---
 
