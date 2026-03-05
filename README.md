@@ -21,6 +21,8 @@ Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Des
   <img src="https://skillicons.dev/icons?i=javascript" height="49" alt="javascript">
 </div>
 
+<h4 aign="left">Frameworks</h4>
+
 ![JSF](https://img.shields.io/badge/JSF-000000?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
@@ -43,7 +45,6 @@ Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Des
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="49" alt="Eclipse"/>
 </div>
-)
 
 ---
 
