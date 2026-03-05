@@ -6,11 +6,29 @@ Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Des
 
 ## Tecnologias e Ferramentas  
 
-## Back-End / ERP  
+<h4 align="left">Techs for Back-End 🛠</h4>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="49" alt="java logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=spring" height="49" alt="spring logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="49" alt="postgresql logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=git" height="49" alt="git logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=docker" height="49" alt="docker logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="49" alt="postman logo"  />
+  <br>
+<h4 align="left">Techs for Front-end 🛠</h4>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=angular" height="49" alt="angularjs logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=ts" height="49" alt="typescript logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=css" height="49" alt="css3 logo"  />  
 </div>
 
 ## Frameworks
