@@ -67,10 +67,10 @@ Gerenciador de Dependências	Maven (pom.xml)
 
 ** Estagiário em Desenvolvimento Java e ERP**  
 Atuação em sistemas corporativos com:  
-- ✅ **JSF + PrimeFaces** para construção de telas dinâmicas  
-- ✅ **JPA/Hibernate** para persistência de dados  
-- ✅ **Autenticação de usuários** e controle de permissões  
-- ✅ **Integração com APIs REST (ex.: consulta CEP)**  
+-  **JSF + PrimeFaces** para construção de telas dinâmicas  
+-  **JPA/Hibernate** para persistência de dados  
+-  **Autenticação de usuários** e controle de permissões  
+-  **Integração com APIs REST (ex.: consulta CEP)**  
 
 ---
 
@@ -109,4 +109,4 @@ Controle de entrada para eventos, com geração e leitura de QR Codes e relatór
 -  Colaborações open-source e projetos de impacto  
 
 
-Obrigado pela visita! 😄 Volte sempre e veja meus novos projetos!
+Obrigado pela visita! Volte sempre e veja meus novos projetos!
