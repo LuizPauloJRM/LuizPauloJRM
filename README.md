@@ -31,6 +31,22 @@ Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Des
   <img width="12" />
 </div>
 
+<h4>Front-end</h4>
+<p align="left">
+  <img src="https://skillicons.dev" height="49" alt="angular logo" />
+  <img src="https://skillicons.dev" height="49" alt="react logo" />
+  <img src="https://skillicons.dev" height="49" alt="typescript logo" />
+  <img src="https://skillicons.dev" height="49" alt="css3 logo" />
+  <img src="https://skillicons.dev" height="49" alt="javascript logo" />
+</p>
+
+<h4>Frameworks</h4>
+
+![Spring](https://shields.io)
+![PrimeFaces](https://shields.io)
+![JSF](https://shields.io)
+![Hibernate](https://shields.io)
+
 <h4 align="left">Ferramentas </h4> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
