@@ -13,8 +13,8 @@ Sou **Desenvolvedor Java Full-Stack** em formação e atualmente **Estagiário e
   
 <h4 align="left">Front-end </h4>
 <div align="left">
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" 
+  <img align="center" alt="Rafa-React" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=ts" height="49" alt="typescript logo"  />
