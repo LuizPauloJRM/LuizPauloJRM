@@ -11,9 +11,7 @@ Sou **Desenvolvedor Java Full-Stack** em formação e atualmente **Estagiário e
   <br>  
   
 <h4 align="left">Front-end </h4>
-<div align="left">
-  <img align="center" alt="React" height="30" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">    
+<div align="left">  
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=ts" height="49" alt="typescript logo"  />
   <img width="1" />
@@ -23,6 +21,8 @@ Sou **Desenvolvedor Java Full-Stack** em formação e atualmente **Estagiário e
 </div>
 
 <h4 align="left">Frameworks</h4>
+  <img align="center" alt="React" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
 ---
 <h4 align="left">Banco de dados </h4>  
 <div align="left">
