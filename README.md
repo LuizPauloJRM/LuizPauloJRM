@@ -6,6 +6,13 @@
  
 Sou **Desenvolvedor Java Backend** em formação e atualmente **Estagiário em Desenvolvimento Java e Sistemas de microserviços ERP** **Empresa Benu ERP**. Tenho experiência prática no desenvolvimento de aplicações web desde 2022, trabalhando no **back-end e front-end**, e venho me especializando no ecossistema **Java corporativo**.
 
+<div> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-paulo-medeiros-devfullstack/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+</p>
+</div>
 ---
 ## Tecnologias e Ferramentas  
 <h4 align="left">Back-End </h4>
@@ -47,14 +54,6 @@ Sou **Desenvolvedor Java Backend** em formação e atualmente **Estagiário em D
 </div>
 
 ---
- 
-<div> 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luiz-paulo-medeiros-devfullstack/">
-    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>
-</p>
-</div>
 
 ## Experiência e Projetos  
 
