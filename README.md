@@ -45,9 +45,16 @@ Sou **Desenvolvedor Java Full-Stack** em formação e atualmente **Estagiário e
 
 ---
 
-## Experiência e Projetos  
+## 🌐 Vamos nos Conectar  
+ 
+<div> 
 
-## ERP JSF
+  <a href="https://instagram.com/luizpaulo.medeiros.junior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-paulo-medeiros-devfullstack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+## Experiência e Projetos  
 
 O ERP JSF é um sistema de gestão empresarial desenvolvido em Java, utilizando o JSF (JavaServer Faces) com PrimeFaces e Hibernate (JPA).
 O objetivo é fornecer um ambiente didático e funcional para aprendizado e demonstração de como construir aplicações corporativas web com arquitetura MVC, persistência em banco de dados e interface rica com PrimeFaces.
@@ -71,18 +78,4 @@ Atuação em sistemas corporativos com:
 -  **Integração com APIs REST (ex.: consulta CEP)**
   
 ---
-
-📌 Confira mais projetos no meu [Portfólio de Projetos](https://github.com/LuizPauloJRM?tab=repositories)
-
----
-
-## 🌐 Vamos nos Conectar  
-  ##
- 
-<div> 
-
-  <a href="https://instagram.com/luizpaulo.medeiros.junior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-paulo-medeiros-devfullstack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
