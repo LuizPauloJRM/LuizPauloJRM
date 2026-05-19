@@ -19,29 +19,18 @@ Sou **Desenvolvedor Java Backend** em formação e atualmente **Estagiário em D
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="49" alt="java logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=spring" height="49" alt="spring logo"  />
-  <br>  
-  
-<h4 align="left">Front-end </h4>
-<div align="left">  
+  <img src="https://skillicons.dev/icons?i=spring" height="49" alt="spring logo"  />   
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=ts" height="49" alt="typescript logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=css" height="49" alt="css3 logo"  />  
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=javascript" height="49" alt="javascript">
-</div>
-
-<h4 align="left">Frameworks</h4>
-  <img align="center" alt="React" height="30" width="40" 
+   <img align="center" alt="React" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-    
-<h4 align="left">Banco de dados </h4>  
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
 </div>
-
 <h4 align="left">Ferramentas </h4> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
