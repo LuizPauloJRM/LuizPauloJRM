@@ -1,5 +1,10 @@
-## Olá, eu sou Luiz Paulo Medeiros da Cunha Júnior  
-Sou **Desenvolvedor Java Full-Stack** em formação e atualmente **Estagiário em Desenvolvimento Java e Sistemas de microserviços ERP** **Empresa Benu ERP**. Tenho experiência prática no desenvolvimento de aplicações web desde 2022, trabalhando no **back-end e front-end**, e venho me especializando no ecossistema **Java corporativo**.
+<h1 align="center">Hello, I'm Luiz Paulo Medeiros 👋</h1>
+
+<p align="center">
+  <em>Software Engineer • Backend Java </em>
+</p>
+ 
+Sou **Desenvolvedor Java Backend** em formação e atualmente **Estagiário em Desenvolvimento Java e Sistemas de microserviços ERP** **Empresa Benu ERP**. Tenho experiência prática no desenvolvimento de aplicações web desde 2022, trabalhando no **back-end e front-end**, e venho me especializando no ecossistema **Java corporativo**.
 
 ---
 ## Tecnologias e Ferramentas  
@@ -42,14 +47,13 @@ Sou **Desenvolvedor Java Full-Stack** em formação e atualmente **Estagiário e
 </div>
 
 ---
-
-## 🌐 Vamos nos Conectar  
  
 <div> 
-
-  <a href="https://instagram.com/luizpaulo.medeiros.junior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-paulo-medeiros-devfullstack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-paulo-medeiros-devfullstack/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+</p>
 </div>
 
 ## Experiência e Projetos  
