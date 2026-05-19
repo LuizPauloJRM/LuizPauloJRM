@@ -77,15 +77,12 @@ Atuação em sistemas corporativos com:
 ---
 
 ## 🌐 Vamos nos Conectar  
+  ##
+ 
+<div> 
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/luiz-paulo-medeiros-devfullstack?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
-📧 Email: **luizpaulomedeiros77@hotmail.com**
+  <a href="https://instagram.com/luizpaulo.medeiros.junior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/luiz-paulo-medeiros-devfullstack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
----
-
-## O que estou buscando no momento  
-
-- Oportunidades de **júnior** para aplicar meus conhecimentos  
--  Projetos com  **Spring Boot, JPA , Java como backend**  
--  Colaborações open-source e projetos de impacto 
-Obrigado pela visita! Volte sempre e veja meus novos projetos!
