@@ -51,8 +51,7 @@ O objetivo é fornecer um ambiente didático e funcional para aprendizado e demo
 
 Atualmente, o sistema possui módulos para cadastro de empresas e cadastro de funcionários (RH), totalmente integrados.
 
-Tecnologias Utilizadas
-Camada	Tecnologias
+Tecnologias Utilizadas:
 Frontend (View)	JSF 2.x, PrimeFaces, XHTML, Facelets, CSS
 Backend (Controle e Serviço)	Java 8+, Managed Beans (JSF Scoped Beans), Hibernate / JPA
 Banco de Dados	MySQL
@@ -60,7 +59,8 @@ IDE Recomendada	Eclipse IDE
 Servidor	Apache Tomcat 9+
 Gerenciador de Dependências	Maven (pom.xml)
 
-** Estagiário em Desenvolvimento Java e ERP**  
+**Estagiário em Desenvolvimento Java e ERP**  
+
 Atuação em sistemas corporativos com:  
 -  **JSF + PrimeFaces** para construção de telas dinâmicas  
 -  **JPA/Hibernate** para persistência de dados  
