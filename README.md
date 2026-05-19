@@ -46,6 +46,7 @@ Sou **Desenvolvedor Java Full-Stack** em formação e atualmente **Estagiário e
 ---
 
 ## Experiência e Projetos  
+
 ## ERP JSF
 
 O ERP JSF é um sistema de gestão empresarial desenvolvido em Java, utilizando o JSF (JavaServer Faces) com PrimeFaces e Hibernate (JPA).
@@ -67,40 +68,24 @@ Atuação em sistemas corporativos com:
 -  **JSF + PrimeFaces** para construção de telas dinâmicas  
 -  **JPA/Hibernate** para persistência de dados  
 -  **Autenticação de usuários** e controle de permissões  
--  **Integração com APIs REST (ex.: consulta CEP)**  
-
+-  **Integração com APIs REST (ex.: consulta CEP)**
+  
 ---
-
-### 📌 Projetos em Destaque  
-
-** DevBurger (Sistema de Pedidos)**  
-Sistema fullstack para hamburgueria com painel do cliente e administrativo.  
-**Tecnologias:** React, Node.js, PostgreSQL, Docker  
-
-**🧾 Sistema de Check-in com QR Code**  
-Controle de entrada para eventos, com geração e leitura de QR Codes e relatórios.  
-**Tecnologias:** Python (Flask), HTML, JavaScript, SQLite  
 
 📌 Confira mais projetos no meu [Portfólio de Projetos](https://github.com/LuizPauloJRM?tab=repositories)
-
----
-
-## 📊 Estatísticas do GitHub  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizPauloJRM&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPauloJRM&layout=compact&theme=dracula)
 
 ---
 
 ## 🌐 Vamos nos Conectar  
 
 🔗 [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/luiz-paulo-medeiros-devfullstack?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
-📧 Email: **luizpaulomedeiros77@hotmail.com**  
+📧 Email: **luizpaulomedeiros77@hotmail.com**
+
 ---
 
 ## O que estou buscando no momento  
 
 - Oportunidades de **júnior** para aplicar meus conhecimentos  
--  Projetos com **Spring Boot, JSF, JPA/Hibernate**  
+-  Projetos com  **Spring Boot, JPA , Java como backend**  
 -  Colaborações open-source e projetos de impacto 
 Obrigado pela visita! Volte sempre e veja meus novos projetos!
