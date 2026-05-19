@@ -42,9 +42,7 @@ Sou **Desenvolvedor Java Full-Stack** em formação e atualmente **Estagiário e
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="49" alt="Eclipse"/>
 </div>
-
 ---
-
 ## Experiência e Projetos  
 ## ERP JSF
 
@@ -82,28 +80,17 @@ Controle de entrada para eventos, com geração e leitura de QR Codes e relatór
 **Tecnologias:** Python (Flask), HTML, JavaScript, SQLite  
 
 📌 Confira mais projetos no meu [Portfólio de Projetos](https://github.com/LuizPauloJRM?tab=repositories)
-
 ---
-
 ## 📊 Estatísticas do GitHub  
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizPauloJRM&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPauloJRM&layout=compact&theme=dracula)
-
 ---
-
 ## 🌐 Vamos nos Conectar  
-
 🔗 [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/luiz-paulo-medeiros-devfullstack?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
 📧 Email: **luizpaulomedeiros77@hotmail.com**  
-
 ---
-
 ## O que estou buscando no momento  
-
 - Oportunidades de **júnior** para aplicar meus conhecimentos  
 -  Projetos com **Spring Boot, JSF, JPA/Hibernate**  
--  Colaborações open-source e projetos de impacto  
-
-
+-  Colaborações open-source e projetos de impacto 
 Obrigado pela visita! Volte sempre e veja meus novos projetos!
