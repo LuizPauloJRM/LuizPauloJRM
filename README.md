@@ -19,18 +19,9 @@ Sou **Desenvolvedor Full-Stack** em formação e atualmente **Estagiário em Des
   <img src="https://skillicons.dev/icons?i=css" height="49" alt="css3 logo"  />  
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=javascript" height="49" alt="javascript">
-    <img src="https://skillicons.dev" height="49" alt="angular logo" />
-  <img width="1" />
-  <img src="https://skillicons.dev" height="49" alt="react logo" />
-  <img width="1" />
 </div>
 
 <h4 align="left">Frameworks</h4>
-
-![Spring](https://shields.io)
-![PrimeFaces](https://shields.io)
-![JSF](https://img.shields.io/badge/JSF-000000?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ---
 <h4 align="left">Banco de dados </h4>  
 <div align="left">
