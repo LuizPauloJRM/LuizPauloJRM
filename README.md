@@ -66,7 +66,7 @@ Camada	Tecnologias
 Frontend (View)	JSF 2.x, PrimeFaces, XHTML, Facelets, CSS
 Backend (Controle e Serviço)	Java 8+, Managed Beans (JSF Scoped Beans), Hibernate / JPA
 Banco de Dados	MySQL
-IDE Recomendada	Eclipse IDE 2025-03
+IDE Recomendada	Eclipse IDE
 Servidor	Apache Tomcat 9+
 Gerenciador de Dependências	Maven (pom.xml)
 
@@ -75,7 +75,7 @@ Atuação em sistemas corporativos com:
 -  **JSF + PrimeFaces** para construção de telas dinâmicas  
 -  **JPA/Hibernate** para persistência de dados  
 -  **Autenticação de usuários** e controle de permissões  
--  **Integração com APIs REST (ex.: consulta CEP)**
+-  **Integração com APIs REST**
   
 ---
 
